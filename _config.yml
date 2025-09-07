@@ -4,3 +4,12 @@ logo: /assets/img/logo.png
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+# Use a sidebar on home page
+defaults:
+  -
+    scope:
+      path: ""       # applies to everything in the repo
+    values:
+      layout: single
+      sidebar:
+        nav: "_data/navigation.yml"  # points to your sidebar links
