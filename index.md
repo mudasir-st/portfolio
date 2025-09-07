@@ -13,7 +13,7 @@ It does not reflect all of my work — if you would like to learn more about my 
 ## ArcGIS Projects
 
 ### Cartography and Static Maps
-![EV Dashboard](assets/img/ev_dashboard.png)
+![EV Dashboard](assets/img/Kentucky_Static_Map.jpg)
 This static map of Kentucky highlights the state’s key geographic and infrastructural features, including parks, highways, major roads, urban areas, and selected cities. Designed and created in ArcGIS Pro using data sourced from the U.S. Census and ArcGIS Online
 ### Web ArcGIS 
 ### Remote Sensing
