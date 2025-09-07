@@ -19,3 +19,22 @@ It does not reflect all of my work — if you would like to learn more about my 
 Highlighting my work in **cartographic design and spatial analysis** using Esri tools
 ## 
 
+<a id="about-me"></a>
+## 👋 About Me
+...
+
+<a id="cartography"></a>
+## 🗺️ Cartography & GIS Projects
+...
+
+<a id="remote-sensing"></a>
+## 🛰️ Remote Sensing & Satellite Imagery
+...
+
+<a id="python-projects"></a>
+## 💻 Geospatial Data Science with Python
+...
+
+<a id="contact"></a>
+## 📬 Contact
+...
