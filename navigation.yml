@@ -1,0 +1,12 @@
+- title: Home
+  url: /
+- title: About Me
+  url: /#about-me
+- title: Cartography Projects
+  url: /#cartography
+- title: Remote Sensing Projects
+  url: /#remote-sensing
+- title: Python Data Science
+  url: /#python-projects
+- title: Contact
+  url: /#contact
