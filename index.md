@@ -13,9 +13,22 @@ It does not reflect all of my work — if you would like to learn more about my 
 ## ArcGIS Projects
 
 ### Cartography and Static Maps
+![EV Dashboard](assets/img/ev_dashboard.png)
+This static map of Kentucky highlights the state’s key geographic and infrastructural features, including parks, highways, major roads, urban areas, and selected cities. Designed and created in ArcGIS Pro using data sourced from the U.S. Census and ArcGIS Online
 ### Web ArcGIS 
 ### Remote Sensing
 ## Geospatial Data Science 
+##  ArcGIS Dashboards
+
+<div class="grid__wrapper">
+  
+### EV Charging Stations Dashboard
+![EV Dashboard](assets/img/ev_dashboard.png)
+- **Tools**: ArcGIS Online
+- **Purpose**: Visualize EV charging stations by county.
+- [View Live Dashboard →](https://your-link)
+
+</div>
 
 
 
