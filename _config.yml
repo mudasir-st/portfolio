@@ -6,3 +6,18 @@
 # show_downloads: false
 # github:
 #   is_project_page: false
+
+remote_theme: mmistakes/minimal-mistakes
+title: "Mudasirullah Stanikzai"
+description: "GIS • Geoscience • Geospatial Data Science"
+url: "https://your-username.github.io"
+author:
+  name: "Mudasirullah Stanikzai"
+  email: "mudasir2.stanikzai@gmail.com"
+  linkedin: "https://linkedin.com/in/yourprofile"
+  github: "https://github.com/your-username"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
