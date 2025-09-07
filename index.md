@@ -11,11 +11,12 @@ This portfolio highlights a selection of my personal and academic projects in ca
 It does not reflect all of my work — if you would like to learn more about my GIS work, please reach out via the **Contact** section.  
 
 ## ArcGIS Projects
-rdgdfgd
+
 ### Cartography and Static Maps
 ### Web ArcGIS 
+### Remote Sensing
 ## Geospatial Data Science 
-### 
+
 
 
 
