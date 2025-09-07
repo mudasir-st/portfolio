@@ -4,9 +4,6 @@ logo: /assets/img/logo.png
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-# Use a sidebar on home page
-defaults:
-  -
-  
+
       sidebar:
         nav: "_data/navigation.yml"  # points to your sidebar links
