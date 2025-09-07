@@ -33,3 +33,13 @@ This static map of Kentucky highlights the state’s key geographic and infrastr
 
 
 
+### Cartography and Static Maps
+
+<a href="assets/img/Kentucky_Static_Map.jpg" target="_blank">
+  <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" width="300">
+</a>
+
+This static map of Kentucky highlights the state’s key geographic and infrastructural features, including parks, highways, major roads, urban areas, and selected cities. Designed and created in ArcGIS Pro using data sourced from the U.S. Census and ArcGIS Online.
+
+
+
