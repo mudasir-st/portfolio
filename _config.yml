@@ -5,5 +5,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 
-      sidebar:
-        nav: "_data/navigation.yml"  # points to your sidebar links
+    
