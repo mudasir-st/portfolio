@@ -26,7 +26,7 @@ This static map of Kentucky highlights the state’s key geographic and infrastr
 https://www.linkedin.com/in/mudasir-stanikzai/
 
 ## Contact
-- 📩 Email: [mudasir2.stanikza@gmail.com](mailto:mudasir2.stanikzai@gmail.com)  
+- 📩 Email: [mudasir2.stanikzai@gmail.com](mailto:mudasir2.stanikzai@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/mudasir-stanikzai](https://linkedin.com/in/mudasir-stanikzai)  
 - 🐙 GitHub: [github.com/mudasir-st](https://github.com/mudasir-st)
 
