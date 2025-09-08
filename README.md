@@ -23,10 +23,10 @@ This static map of Kentucky highlights the state’s key geographic and infrastr
 ### Remote Sensing
 ## Geospatial Data Science 
 ##  ArcGIS Dashboards
-
+https://www.linkedin.com/in/mudasir-stanikzai/
 
 ## Contact
-- 📩 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
-GitHub [Octocat Icon]
+- 📩 Email: [mudasir2.stanikza@gmail.com](mailto:mudasir2.stanikzai@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/mudasir-stanikzai](https://linkedin.com/in/mudasir-stanikzai)  
+- 🐙 GitHub: [github.com/mudasir-st](https://github.com/mudasir-st)
+
