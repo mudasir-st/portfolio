@@ -1,4 +1,4 @@
-# Welcome to My GIS & Geospatial Data Science Portfolio 
+# Welcome to My Portfolio 
 
 ## About Me
 
