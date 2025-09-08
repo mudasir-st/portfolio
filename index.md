@@ -25,9 +25,8 @@ This static map of Kentucky highlights the state’s key geographic and infrastr
 ##  ArcGIS Dashboards
 
 
-<!-- Thumbnail image that opens lightbox -->
-<a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-gallery="maps" data-title="Kentucky Static Map">
-  <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" width="300">
-</a>
-
-
+## Contact
+- 📩 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
+GitHub [Octocat Icon]
