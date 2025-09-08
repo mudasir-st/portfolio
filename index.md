@@ -24,9 +24,6 @@ This static map of Kentucky highlights the state’s key geographic and infrastr
 ## Geospatial Data Science 
 ##  ArcGIS Dashboards
 
-### EV Charging Stations Dashboard
-
-
 
 <!-- Thumbnail image that opens lightbox -->
 <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-gallery="maps" data-title="Kentucky Static Map">
