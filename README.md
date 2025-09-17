@@ -22,7 +22,7 @@ This static map of Kentucky highlights the state’s key geographic and infrastr
 ### Web and Interactive Maps
 ####  1. Ohio River NH₃-N Concentrations (1976–2024)
  
-This interactive web map presents annual mean concentrations of ammonia as nitrogen (NH₃-N) in the Ohio River from 1976 to 2024. The project integrates Python-based data cleaning (see files and data in the repository), ArcGIS Pro for spatial processing, temporal analysis with time-enabled layers, and web GIS publishing via ArcGIS Online to visualize long-term water quality trends.
+This interactive web map presents annual mean concentrations of ammonia as nitrogen (NH₃-N) mg/L in the Ohio River from 1976 to 2024. The project integrates Python-based data cleaning (see files and data in the repository), ArcGIS Pro for spatial processing, temporal analysis with time-enabled layers, and web GIS publishing via ArcGIS Online to visualize long-term water quality trends.
 <iframe 
   src="https://univofillinois.maps.arcgis.com/apps/mapviewer/index.html?webmap=2fff2b5c34ba475aac118e481e43f316" 
   width="700" 
