@@ -19,11 +19,13 @@ It does not reflect all of my work — if you would like to learn more about my 
 This static map of Kentucky highlights the state’s key geographic and infrastructural features, including parks, highways, major roads, urban areas, and selected cities. Designed and created in ArcGIS Pro using data sourced from the U.S. Census and ArcGIS Online
 
 ### Web and Interactive Maps
-
+ #### 1. <h2>📍 Ohio River NH₃-N Concentrations (1976–2024)</h2>
+ 
+This interactive web map presents annual mean concentrations of ammonia as nitrogen (NH₃-N) in the Ohio River from 1976 to 2024. The project integrates Python-based data cleaning (see Jupyter Notebook in the repository), ArcGIS Pro for spatial processing, temporal analysis with time-enabled layers, and web GIS publishing via ArcGIS Online to visualize long-term water quality trends.
 <iframe 
   src="https://univofillinois.maps.arcgis.com/apps/mapviewer/index.html?webmap=2fff2b5c34ba475aac118e481e43f316" 
-  width="800" 
-  height="600" 
+  width="700" 
+  height="500" 
   frameborder="0" 
   style="border:0;" 
   allowfullscreen>
@@ -32,9 +34,9 @@ This static map of Kentucky highlights the state’s key geographic and infrastr
 
 
 
+## Geospatial Data Science Project
 
-
-
+Coming soon!
 
 
 
