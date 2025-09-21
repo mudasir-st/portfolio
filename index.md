@@ -37,7 +37,7 @@ This interactive web map presents annual mean concentrations of ammonia as nitro
 
 
 
-## Geospatial Data Science Project
+## Geospatial Data Science Projects
 
 Coming soon!
 
