@@ -48,7 +48,7 @@ I hold a Master’s degree in Earth Resources Science and am currently pursuing 
 
 This portfolio highlights a selection of my personal and academic projects in cartography, remote sensing, and geospatial data science.  
 It does not reflect all of my work — if you would like to learn more about my GIS work, please reach out via the **Contact** section.  
-
+<br>
 ## ArcGIS Projects
 ### 1. Cartography and Static Maps
 
@@ -91,7 +91,7 @@ using U.S. Census and ArcGIS Online data.
 </div>
 
 
-
+<br>
 ### Web and Interactive Maps
 ####  1. Ohio River NH₃-N Concentrations (1976–2024)
  
@@ -109,13 +109,13 @@ This interactive web map presents annual mean concentrations of ammonia as nitro
 
 
 
-
+<br>
 ## Geospatial Data Science Projects
 
 Coming soon!
 
 
-
+<br>
 ## Contact
 - 📩 Email: [mudasir2.stanikzai@gmail.com](mailto:mudasir2.stanikzai@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/mudasir-stanikzai](https://linkedin.com/in/mudasir-stanikzai)  
