@@ -33,9 +33,8 @@ It does not reflect all of my work — if you would like to learn more about my 
   </a>
   <p>
     This map illustrates soil drainage classes across the Indianapolis region using SSURGO data 
-    from the USDA NRCS. By joining spatial and tabular datasets, soils were categorized from 
-    “excessively drained” to “very poorly drained.” The map supports applications in urban 
-    planning, stormwater management, and environmental analysis.
+    from the USDA NRCS. By joining spatial and tabular datasets, soils were categorized into different classes.
+    The map supports applications in urban planning, stormwater management, and environmental analysis.
   </p>
 </div>
 
