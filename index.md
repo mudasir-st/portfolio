@@ -9,9 +9,9 @@
 }
 
 .maps-row div {
-  max-width: 150px;      /* thumbnail size */
+  max-width: 150px;      
   text-align: center;
-  flex: 1 1 150px;       /* allows shrink/grow in row */
+  flex: 1 1 150px;       
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -28,54 +28,14 @@
 }
 
 .maps-row p {
-  text-align: justify;       /* justify text */
-  width: 100%;               /* ensure paragraph fills div */
-  font-size: 0.85rem;        /* slightly smaller for thumbnails */
-  line-height: 1.3;          
-  margin: 5px 0 0 0;         /* remove extra space on top */
+  text-align: left;        /* change from justify to left */
+  width: 100%;             
+  font-size: 0.85rem;      
+  line-height: 1.3;        
+  margin: 5px 0 0 0;       
 }
 </style>
 {% endraw %}
-{% raw %}
-<style>
-.maps-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  justify-content: center;
-  margin-top: 20px;
-}
-
-.maps-row div {
-  max-width: 150px;      /* thumbnail size */
-  text-align: center;
-  flex: 1 1 150px;       /* allows shrink/grow in row */
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.maps-row img {
-  width: 100%;           
-  height: auto;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  margin-bottom: 8px;
-  cursor: pointer;
-}
-
-.maps-row p {
-  text-align: justify;       /* justify text */
-  width: 100%;               /* ensure paragraph fills div */
-  font-size: 0.85rem;        /* slightly smaller for thumbnails */
-  line-height: 1.3;          
-  margin: 5px 0 0 0;         /* remove extra space on top */
-}
-</style>
-{% endraw %}
-
-
 
 # Welcome to My Portfolio 
 
