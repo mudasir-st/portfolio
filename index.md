@@ -44,44 +44,35 @@ It does not reflect all of my work — if you would like to learn more about my 
 ## ArcGIS Projects
 ### 1. Cartography and Static Maps
 
-
 <div class="maps-row">
 
-  <!-- Map 1 -->
-  <div class="map-item">
+  <div>
     <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-title="Kentucky Static Map">
-      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">  
+      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map">  
     </a>
-    <p>
-      This static map of Kentucky highlights major geographic and infrastructural features, 
-      including parks, highways, urban areas, and selected cities. Designed in ArcGIS Pro 
-      using U.S. Census and ArcGIS Online data.
-    </p>
+    <p>This static map of Kentucky highlights major geographic and infrastructural features...</p>
   </div>
 
-  <!-- Map 2 -->
-  <div class="map-item">
+  <div>
     <a href="assets/img/Indianapolis_Drainage_Map.jpg" class="glightbox" data-title="Indianapolis Soil Drainage Map">
-      <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
+      <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map">
     </a>
-    <p>
+    <!--
       This map illustrates soil drainage classes across the Indianapolis region using SSURGO data 
       from the USDA NRCS. By joining spatial and tabular datasets, soils were categorized into different classes.
       The map supports applications in urban planning, stormwater management, and environmental analysis.
-    </p>
+    -->
   </div>
 
-  <!-- Map 3 -->
-  <div class="map-item">
+  <div>
     <a href="assets/img/I-65_Linear_Referencing_Map.jpg" class="glightbox" data-title="I-65 Linear Referencing Map">
-      <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map" class="map-thumb">
+      <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map">
     </a>
-    <p>
-      This map demonstrates linear referencing along I-65 highway using M-value based stationing. Station markers were customized using Arcade expressions. 
-    </p>
+    <p>This map demonstrates linear referencing along I-65 highway using M-value based stationing...</p>
   </div>
 
 </div>
+
 
 
 ### Web and Interactive Maps
