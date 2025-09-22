@@ -46,7 +46,7 @@ It does not reflect all of my work — if you would like to learn more about my 
       <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map" class="map-thumb">
     </a>
     <p>
-      This map demonstrates linear referencing along I-65 using M-value based stationing. Station markers were customized using Arcade expressions. 
+      This map demonstrates linear referencing along I-65 highway using M-value based stationing. Station markers were customized using Arcade expressions. 
     </p>
   </div>
 
