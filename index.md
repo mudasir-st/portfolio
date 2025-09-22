@@ -10,6 +10,10 @@ I hold a Master’s degree in Earth Resources Science and am currently pursuing 
 This portfolio highlights a selection of my personal and academic projects in cartography, remote sensing, and geospatial data science.  
 It does not reflect all of my work — if you would like to learn more about my GIS work, please reach out via the **Contact** section.  
 
+## ArcGIS Projects
+### 1. Cartography and Static Maps
+
+
 <div class="maps-row">
 
   <!-- Map 1 -->
