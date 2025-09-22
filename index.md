@@ -101,9 +101,10 @@ It does not reflect all of my work — if you would like to learn more about my 
       <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">  
     </a>
     <p>
-      This static map of Kentucky highlights major geographic and infrastructural features, 
-      including parks, highways, urban areas, and selected cities. Designed in ArcGIS Pro 
-      using U.S. Census and ArcGIS Online data.
+     This static map of Kentucky highlights major geographic and infrastructural features,
+including parks, highways, urban areas, and selected cities. Designed in ArcGIS Pro
+using U.S. Census and ArcGIS Online data.
+
     </p>
   </div>
 
@@ -113,9 +114,7 @@ It does not reflect all of my work — if you would like to learn more about my 
       <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
     </a>
     <p>
-      This map illustrates soil drainage classes across the Indianapolis region using SSURGO data 
-      from the USDA NRCS. By joining spatial and tabular datasets, soils were categorized into different classes.
-      The map supports applications in urban planning, stormwater management, and environmental analysis.
+    This map illustrates soil drainage classes across the Indianapolis region using SSURGO data from the USDA NRCS. By joining spatial and tabular datasets, soils were categorized into different classes  The map supports applications in urban planning, stormwater management, and environmental analysis.
     </p>
   </div>
 
