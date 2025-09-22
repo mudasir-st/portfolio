@@ -1,34 +1,3 @@
-<style>
-.maps-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-  justify-content: center;
-  margin-top: 20px;
-}
-
-.maps-row a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 250px; /* thumbnail size */
-  text-align: center;
-  text-decoration: none;
-  color: inherit;
-}
-
-.map-thumb {
-  width: 100%;   /* fit container width */
-  height: auto;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
-  margin-bottom: 8px;
-  cursor: pointer;
-}
-</style>
-
-
 # Welcome to My Portfolio 
 
 ## About Me
