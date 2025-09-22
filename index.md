@@ -23,9 +23,15 @@
   margin-bottom: 8px;
   cursor: pointer;
 }
+
+/* Added for description text */
+.maps-row p {
+  text-align: justify;
+  font-size: 0.9rem; /* optional, makes text a bit smaller for thumbnails */
+  line-height: 1.3;
+}
 </style>
 {% endraw %}
-
 
 
 
