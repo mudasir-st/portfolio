@@ -1,3 +1,34 @@
+{% raw %}
+<style>
+.maps-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.maps-row div {
+  max-width: 150px;      /* thumbnail size */
+  text-align: center;
+  flex: 1 1 150px;       /* allows shrink/grow in row */
+}
+
+.maps-row img {
+  width: 100%;           /* fills container */
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+</style>
+{% endraw %}
+
+
+
+
 # Welcome to My Portfolio 
 
 ## About Me
