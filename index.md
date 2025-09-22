@@ -41,29 +41,40 @@ I hold a Master’s degree in Earth Resources Science and am currently pursuing 
 This portfolio highlights a selection of my personal and academic projects in cartography, remote sensing, and geospatial data science.  
 It does not reflect all of my work — if you would like to learn more about my GIS work, please reach out via the **Contact** section.  
 
-## ArcGIS Projects
-
-### Cartography and Static Maps
-
 <div class="maps-row">
 
   <!-- Map 1 -->
-  <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-title="Kentucky Static Map">
-    <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">
-    <p>This static map of Kentucky highlights major geographic and infrastructural features...</p>
-  </a>
+  <div class="map-item">
+    <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-title="Kentucky Static Map">
+      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">
+    </a>
+    <p>
+      This static map of Kentucky highlights major geographic and infrastructural features, 
+      including parks, highways, urban areas, and selected cities. Designed in ArcGIS Pro 
+      using U.S. Census and ArcGIS Online data.
+    </p>
+  </div>
 
   <!-- Map 2 -->
-  <a href="assets/img/Indianapolis_Drainage_Map.jpg" class="glightbox" data-title="Indianapolis Soil Drainage Map">
-    <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
-    <p>This map illustrates soil drainage classes across Indianapolis using SSURGO data...</p>
-  </a>
+  <div class="map-item">
+    <a href="assets/img/Indianapolis_Drainage_Map.jpg" class="glightbox" data-title="Indianapolis Soil Drainage Map">
+      <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
+    </a>
+    <p>
+      This map illustrates soil drainage classes across Indianapolis using SSURGO data from USDA NRCS. 
+      Soils are categorized from excessively drained to very poorly drained.
+    </p>
+  </div>
 
   <!-- Map 3 -->
-  <a href="assets/img/I-65_Linear_Referencing_Map.jpg" class="glightbox" data-title="I-65 Linear Referencing Map">
-    <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map" class="map-thumb">
-    <p>This map demonstrates linear referencing along I-65 using M-value stationing...</p>
-  </a>
+  <div class="map-item">
+    <a href="assets/img/I-65_Linear_Referencing_Map.jpg" class="glightbox" data-title="I-65 Linear Referencing Map">
+      <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map" class="map-thumb">
+    </a>
+    <p>
+      This map demonstrates linear referencing along I-65 using M-value stationing and Arcade expressions.
+    </p>
+  </div>
 
 </div>
 
