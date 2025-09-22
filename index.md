@@ -46,8 +46,8 @@ It does not reflect all of my work — if you would like to learn more about my 
   <!-- Map 1 -->
   <div class="map-item">
     <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-title="Kentucky Static Map">
-      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">
-        <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
+      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">   <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
+      
     </a>
     <p>
       This static map of Kentucky highlights major geographic and infrastructural features, 
