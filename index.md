@@ -1,18 +1,33 @@
 <style>
 .maps-row {
   display: flex;
-  justify-content: center;
-  gap: 20px;
   flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
   margin-top: 20px;
 }
 
-.map-item {
-  flex: 1 1 300px; /* grow, shrink, base width */
-  max-width: 300px;
+.maps-row a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 250px; /* thumbnail size */
   text-align: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.map-thumb {
+  width: 100%;   /* fit container width */
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+  margin-bottom: 8px;
+  cursor: pointer;
 }
 </style>
+
 
 # Welcome to My Portfolio 
 
@@ -26,11 +41,6 @@ I hold a Master’s degree in Earth Resources Science and am currently pursuing 
 This portfolio highlights a selection of my personal and academic projects in cartography, remote sensing, and geospatial data science.  
 It does not reflect all of my work — if you would like to learn more about my GIS work, please reach out via the **Contact** section.  
 
-
-## ArcGIS Projects
-
-### Cartography and Static Maps
-
 ## ArcGIS Projects
 
 ### Cartography and Static Maps
@@ -38,37 +48,22 @@ It does not reflect all of my work — if you would like to learn more about my 
 <div class="maps-row">
 
   <!-- Map 1 -->
-  <div class="map-item">
-    <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-title="Kentucky Static Map">
-      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" width="100%">
-    </a>
-    <p>
-      This static map of Kentucky highlights major geographic and infrastructural features, 
-      including parks, highways, urban areas, and selected cities. Designed in ArcGIS Pro 
-      using U.S. Census and ArcGIS Online data.
-    </p>
-  </div>
+  <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-title="Kentucky Static Map">
+    <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">
+    <p>This static map of Kentucky highlights major geographic and infrastructural features...</p>
+  </a>
 
   <!-- Map 2 -->
-  <div class="map-item">
-    <a href="assets/img/Indianapolis_Drainage_Map.jpg" class="glightbox" data-title="Indianapolis Soil Drainage Map">
-      <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" width="100%">
-    </a>
-    <p>
-      This map illustrates soil drainage classes across Indianapolis using SSURGO data from USDA NRCS.
-      Soils are categorized from excessively drained to very poorly drained.
-    </p>
-  </div>
+  <a href="assets/img/Indianapolis_Drainage_Map.jpg" class="glightbox" data-title="Indianapolis Soil Drainage Map">
+    <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
+    <p>This map illustrates soil drainage classes across Indianapolis using SSURGO data...</p>
+  </a>
 
   <!-- Map 3 -->
-  <div class="map-item">
-    <a href="assets/img/I-65_Linear_Referencing_Map.jpg" class="glightbox" data-title="I-65 Linear Referencing Map">
-      <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map" width="100%">
-    </a>
-    <p>
-      This map demonstrates linear referencing along I-65 using M-value stationing and Arcade expressions.
-    </p>
-  </div>
+  <a href="assets/img/I-65_Linear_Referencing_Map.jpg" class="glightbox" data-title="I-65 Linear Referencing Map">
+    <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map" class="map-thumb">
+    <p>This map demonstrates linear referencing along I-65 using M-value stationing...</p>
+  </a>
 
 </div>
 
