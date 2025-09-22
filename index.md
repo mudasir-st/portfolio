@@ -1,34 +1,18 @@
 <style>
 .maps-row {
   display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
   justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
   margin-top: 20px;
 }
 
-.maps-row a {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 250px; /* thumbnail size */
+.map-item {
+  flex: 1 1 300px; /* grow, shrink, base width */
+  max-width: 300px;
   text-align: center;
-  text-decoration: none;
-  color: inherit;
-}
-
-.map-thumb {
-  width: 100%;   /* fit container width */
-  height: auto;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
-  margin-bottom: 8px;
-  cursor: pointer;
 }
 </style>
-
-
 
 # Welcome to My Portfolio 
 
@@ -42,6 +26,10 @@ I hold a Master’s degree in Earth Resources Science and am currently pursuing 
 This portfolio highlights a selection of my personal and academic projects in cartography, remote sensing, and geospatial data science.  
 It does not reflect all of my work — if you would like to learn more about my GIS work, please reach out via the **Contact** section.  
 
+
+## ArcGIS Projects
+
+### Cartography and Static Maps
 
 ## ArcGIS Projects
 
