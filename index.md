@@ -46,8 +46,7 @@ It does not reflect all of my work — if you would like to learn more about my 
   <!-- Map 1 -->
   <div class="map-item">
     <a href="assets/img/Kentucky_Static_Map.jpg" class="glightbox" data-title="Kentucky Static Map">
-      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">   <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
-      
+      <img src="assets/img/Kentucky_Static_Map.jpg" alt="Kentucky Static Map" class="map-thumb">  
     </a>
     <p>
       This static map of Kentucky highlights major geographic and infrastructural features, 
@@ -62,8 +61,9 @@ It does not reflect all of my work — if you would like to learn more about my 
       <img src="assets/img/Indianapolis_Drainage_Map.jpg" alt="Indianapolis Soil Drainage Map" class="map-thumb">
     </a>
     <p>
-      This map illustrates soil drainage classes across Indianapolis using SSURGO data from USDA NRCS. 
-      Soils are categorized from excessively drained to very poorly drained.
+      This map illustrates soil drainage classes across the Indianapolis region using SSURGO data 
+      from the USDA NRCS. By joining spatial and tabular datasets, soils were categorized into different classes.
+      The map supports applications in urban planning, stormwater management, and environmental analysis.
     </p>
   </div>
 
@@ -73,7 +73,7 @@ It does not reflect all of my work — if you would like to learn more about my 
       <img src="assets/img/I-65_Linear_Referencing_Map.jpg" alt="I-65 Linear Referencing Map" class="map-thumb">
     </a>
     <p>
-      This map demonstrates linear referencing along I-65 using M-value stationing and Arcade expressions.
+      This map demonstrates linear referencing along I-65 using M-value based stationing. Station markers were customized using Arcade expressions. 
     </p>
   </div>
 
