@@ -98,12 +98,10 @@ using U.S. Census and ArcGIS Online data.
          style="width: 80%; max-width: 800px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.3);">
   </a>
   <p style="text-align: left; max-width: 800px; margin: 10px auto 0; font-size: 0.9rem; line-height: 1.4;">
-    This detailed cartographic map highlights the landforms and terrain variations across the Appalachian region.
-    Designed in ArcGIS Pro using multi-scale DEM visualization and hillshade effects, it emphasizes elevation gradients,
-    ridge-valley morphology, and watershed boundaries. The design balances aesthetic clarity with topographic accuracy.
     This map compares how different classification methods—Natural Breaks, Quantile, Equal Interval, and Unclassed Colors
-    affect the story of the estimated power generation  per plant in part of Asia. The  same  data is visvualized four ways
+    affect the story of the estimated power generation per plant in part of Asia. The  same  data is visvualized four ways
     to show how classification can shape the sory a map tells. This map was made using data from the Global Power Plant Database.
+    Data was cleaned using python. Both raw and cleaned data is available on the repository page. 
     
 
   </p>
