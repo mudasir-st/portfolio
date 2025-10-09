@@ -93,7 +93,7 @@ using U.S. Census and ArcGIS Online data.
 <!-- Featured Map (larger) -->
 <div style="text-align: center; margin-top: 40px;">
   <a href="assets/img/Appalachia_Landform_Map.jpg" class="glightbox" data-title="Appalachia Landform and Terrain Map">
-    <img src="assets/img/Power Generation Across Asia.jpg" 
+    <img src="assets/img/Power_Generation_Across_Asia.jpg" 
          alt="Appalachia Landform and Terrain Map" 
          style="width: 80%; max-width: 800px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.3);">
   </a>
