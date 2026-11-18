@@ -41,8 +41,9 @@
 
 ## About Me
 
-I am Mudasirullah Stanikzai, a geoscience and geospatial data professional with approximately five years of experience working with Earth science, environmental, and geospatial data. My expertise includes GIS, remote sensing, spatial analysis, data processing, visualization, and applied data analytics.  
-Throughout my academic and professional career, I have applied geospatial technologies, statistical methods, and computational tools to collect, manage, analyze, and visualize complex datasets, supporting scientific research, environmental assessments, natural resource studies, and data-driven decision-making.
+I am Mudasirullah Stanikzai, an environmental and geospatial data professional with over five years of experience in environmental and Earth sciences. My background combines environmental science, GIS, remote sensing, spatial analysis, and applied data analytics to investigate environmental conditions, assess natural resources, and support sustainability initiatives and data-driven decision-making.
+
+Throughout my academic and professional career, I have applied geospatial technologies, quantitative methods, and data visualization techniques to environmental assessments, scientific research, and real-world analytical projects.
 
 I hold a Master's degree in Earth Resource Science and a Graduate Certificate in CyberGIS and Geospatial Data Science.
 
