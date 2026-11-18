@@ -37,18 +37,21 @@
 </style>
 {% endraw %}
 
-# Welcome to My Portfolio 
+# Welcome to My Portfolio
 
 ## About Me
 
-I am Mudasirullah Stanikzai, a geoscience and GIS/geospatial data science professional with over 3 years of experience applying GIS tools in the earth science field.  
-Throughout my academic and professional journey, I have applied GIS technology to both research and applied projects.  
+I am Mudasirullah Stanikzai, a geoscience and geospatial data professional with approximately five years of experience working with Earth science, environmental, and geospatial data. My expertise includes GIS, remote sensing, spatial analysis, data processing, visualization, and applied data analytics.  
+Throughout my academic and professional career, I have applied geospatial technologies, statistical methods, and computational tools to collect, manage, analyze, and visualize complex datasets, supporting scientific research, environmental assessments, natural resource studies, and data-driven decision-making.
 
-I hold a Master’s degree in Earth Resources Science and a Graduate Certificate in CyberGIS and Geospatial Data Science.   
+I hold a Master's degree in Earth Resource Science and a Graduate Certificate in CyberGIS and Geospatial Data Science.
 
-This portfolio highlights a selection of my personal and academic projects in cartography, remote sensing, and geospatial data science.  
-It does not reflect all of my work — if you would like to learn more about my GIS work, please reach out via the **Contact** section.  
+This portfolio showcases selected personal and academic projects in GIS, cartography, remote sensing, spatial analysis, and geospatial data science.  
+These projects represent only a portion of my technical experience and interests. To learn more about my work or discuss potential opportunities, please reach out through the **Contact** section.
+
 <br>
+
+
 ## ArcGIS Projects
 ### 1. Cartography and Static Maps
 
